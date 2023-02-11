@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frm));
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
             this.btnSearch = new System.Windows.Forms.Button();
             this.pinziplbl = new System.Windows.Forms.Label();
@@ -180,6 +181,7 @@
             this.ClientSize = new System.Drawing.Size(1219, 739);
             this.Controls.Add(this.splitContainer1);
             this.HelpButton = true;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Man Maps";
