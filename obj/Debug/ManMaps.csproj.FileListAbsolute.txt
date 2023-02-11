@@ -1,0 +1,11 @@
+C:\Users\GF63\Desktop\Learning\.Net\Projects\ManMaps\bin\Debug\ManMaps.exe.config
+C:\Users\GF63\Desktop\Learning\.Net\Projects\ManMaps\bin\Debug\ManMaps.exe
+C:\Users\GF63\Desktop\Learning\.Net\Projects\ManMaps\bin\Debug\ManMaps.pdb
+C:\Users\GF63\Desktop\Learning\.Net\Projects\ManMaps\obj\Debug\ManMaps.csproj.AssemblyReference.cache
+C:\Users\GF63\Desktop\Learning\.Net\Projects\ManMaps\obj\Debug\ManMaps.csproj.SuggestedBindingRedirects.cache
+C:\Users\GF63\Desktop\Learning\.Net\Projects\ManMaps\obj\Debug\ManMaps.frm.resources
+C:\Users\GF63\Desktop\Learning\.Net\Projects\ManMaps\obj\Debug\ManMaps.Properties.Resources.resources
+C:\Users\GF63\Desktop\Learning\.Net\Projects\ManMaps\obj\Debug\ManMaps.csproj.GenerateResource.cache
+C:\Users\GF63\Desktop\Learning\.Net\Projects\ManMaps\obj\Debug\ManMaps.csproj.CoreCompileInputs.cache
+C:\Users\GF63\Desktop\Learning\.Net\Projects\ManMaps\obj\Debug\ManMaps.exe
+C:\Users\GF63\Desktop\Learning\.Net\Projects\ManMaps\obj\Debug\ManMaps.pdb
